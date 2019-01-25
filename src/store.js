@@ -10,7 +10,7 @@ const users = () => {
         "last_name": "Hannon",
         "email": "dhannon0@google.pl",
         "gender": "Female",
-        "availabe": true,
+        "available": false,
         "ip_address": "214.140.193.90"
       }, {
         "id": 2,
@@ -18,7 +18,7 @@ const users = () => {
         "last_name": "Hallatt",
         "email": "ghallatt1@google.pl",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "198.228.235.250"
       }, {
         "id": 3,
@@ -26,7 +26,7 @@ const users = () => {
         "last_name": "McKerton",
         "email": "pmckerton2@uol.com.br",
         "gender": "Male",
-        "availabe": true,
+        "available": true,
         "ip_address": "236.209.160.53"
       }, {
         "id": 4,
@@ -34,7 +34,7 @@ const users = () => {
         "last_name": "Burg",
         "email": "pburg3@is.gd",
         "gender": "Male",
-        "availabe": true,
+        "available": false,
         "ip_address": "129.142.127.96"
       }, {
         "id": 5,
@@ -42,7 +42,7 @@ const users = () => {
         "last_name": "Bortoluzzi",
         "email": "jbortoluzzi4@xrea.com",
         "gender": "Female",
-        "availabe": true,
+        "available": false,
         "ip_address": "215.168.181.36"
       }, {
         "id": 6,
@@ -50,7 +50,7 @@ const users = () => {
         "last_name": "Scanes",
         "email": "cscanes5@ustream.tv",
         "gender": "Male",
-        "availabe": true,
+        "available": false,
         "ip_address": "154.191.34.34"
       }, {
         "id": 7,
@@ -58,7 +58,7 @@ const users = () => {
         "last_name": "Lotwich",
         "email": "alotwich6@last.fm",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "227.129.142.102"
       }, {
         "id": 8,
@@ -66,7 +66,7 @@ const users = () => {
         "last_name": "Castano",
         "email": "ccastano7@livejournal.com",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "170.170.48.29"
       }, {
         "id": 9,
@@ -74,7 +74,7 @@ const users = () => {
         "last_name": "Wainwright",
         "email": "twainwright8@phoca.cz",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "53.45.159.124"
       }, {
         "id": 10,
@@ -82,7 +82,7 @@ const users = () => {
         "last_name": "Eates",
         "email": "meates9@squarespace.com",
         "gender": "Male",
-        "availabe": true,
+        "available": true,
         "ip_address": "106.1.252.6"
       }, {
         "id": 11,
@@ -90,7 +90,7 @@ const users = () => {
         "last_name": "Hatterslay",
         "email": "ohatterslaya@rambler.ru",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "159.215.146.201"
       }, {
         "id": 12,
@@ -98,7 +98,7 @@ const users = () => {
         "last_name": "Kaasman",
         "email": "mkaasmanb@ask.com",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "85.124.73.23"
       }, {
         "id": 13,
@@ -106,7 +106,7 @@ const users = () => {
         "last_name": "Persey",
         "email": "cperseyc@un.org",
         "gender": "Male",
-        "availabe": true,
+        "available": true,
         "ip_address": "59.92.202.92"
       }, {
         "id": 14,
@@ -114,7 +114,7 @@ const users = () => {
         "last_name": "Del Castello",
         "email": "ldelcastellod@nymag.com",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "32.195.108.69"
       }, {
         "id": 15,
@@ -122,7 +122,7 @@ const users = () => {
         "last_name": "Nendick",
         "email": "knendicke@de.vu",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "117.229.27.31"
       }, {
         "id": 16,
@@ -130,7 +130,7 @@ const users = () => {
         "last_name": "Gout",
         "email": "dgoutf@comsenz.com",
         "gender": "Male",
-        "availabe": true,
+        "available": true,
         "ip_address": "71.65.177.94"
       }, {
         "id": 17,
@@ -138,7 +138,7 @@ const users = () => {
         "last_name": "Twomey",
         "email": "ptwomeyg@ebay.co.uk",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "24.188.119.155"
       }, {
         "id": 18,
@@ -146,7 +146,7 @@ const users = () => {
         "last_name": "Bennedsen",
         "email": "abennedsenh@ifeng.com",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "234.104.186.120"
       }, {
         "id": 19,
@@ -154,7 +154,7 @@ const users = () => {
         "last_name": "Siret",
         "email": "asireti@twitter.com",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "20.171.113.147"
       }, {
         "id": 20,
@@ -162,7 +162,7 @@ const users = () => {
         "last_name": "Fleis",
         "email": "wfleisj@digg.com",
         "gender": "Female",
-        "availabe": true,
+        "available": true,
         "ip_address": "22.211.115.124"
       }]
 }
